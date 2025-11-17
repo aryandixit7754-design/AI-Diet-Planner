@@ -7,7 +7,7 @@ It uses Llama-3 70B through Groq API to generate creative meal ideas using ingre
 
 ## Demo
 
-![image](https://github.com/myselfshravan/AI-Meal-Planner/assets/71520844/b33ba708-ded4-467d-8e0a-68f5e47e4b80)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/42e0397f-0e07-42f8-86c8-87d940b0c7e6" />
 ![image](https://github.com/myselfshravan/AI-Meal-Planner/assets/71520844/5d1d86ed-d7f5-46a0-9dfe-42b2d43bae90)
 ![image](https://github.com/myselfshravan/AI-Meal-Planner/assets/71520844/895511ea-7e07-4c6c-827b-2fa948f47623)
 
