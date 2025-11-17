@@ -4,7 +4,6 @@ This project is a meal planning app that generates personalized meal plans based
 preferences.
 It uses Llama-3 70B through Groq API to generate creative meal ideas using ingredients selected by the algorithm.
 
-### Try the app [here](https://ai-meal-planner.streamlit.app)
 
 ## Demo
 
